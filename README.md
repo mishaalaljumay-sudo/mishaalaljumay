@@ -1,148 +1,205 @@
-<h1 align="center">Hi 👋, I'm Mishaal Fares</h1>
+<div align="center">
 
-<h3 align="center">Cybersecurity Student | Programmer | Networking Enthusiast</h3>
+<img src="./cybersecurity-banner.png" alt="Mishaal Fares Cybersecurity" width="100%">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mishaalfares&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+# 👋 Hi, I'm Mishaal Fares
+
+### 🛡️ Cybersecurity Student | 💻 Programmer | 🌐 Networking Enthusiast
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mishaalfares&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-* 🎓 I'm a **Cybersecurity student** passionate about technology and information security.
-* 🔐 Interested in **Cybersecurity, Ethical Hacking, Networking, and Secure Software Development**.
-* 💻 I enjoy building projects and learning how systems work from both the programming and security perspectives.
-* 🌱 Currently improving my skills in **Cybersecurity, Programming, Networking, and Flutter development**.
-* 🚀 Always learning, building, and exploring new technologies.
-* 🧠 I believe in **continuous learning, problem solving, and practical experience**.
+I'm **Mishaal Fares**, a Cybersecurity student passionate about programming, networking, and information security.
+
+* 🎓 Studying **Cybersecurity**
+* 🔐 Interested in **Cybersecurity & Ethical Hacking**
+* 🐍 Working with **Python**
+* ☕ Working with **Java**
+* 🎯 Developing applications with **Dart & Flutter**
+* 🌐 Learning **Computer Networking & Network Security**
+* 🐧 Exploring **Linux**
+* 🚀 Building projects to improve my practical skills
+* 📚 Always learning something new
 
 ---
 
 ## 🛡️ Cybersecurity
 
-My main area of interest is **Cybersecurity**.
+My main field of interest is **Cybersecurity**.
 
-I'm interested in:
-
-* 🔎 Cybersecurity Fundamentals
-* 🌐 Computer Networking
-* 🛡️ Network Security
-* 🐧 Linux
-* 🔐 Cryptography
-* 🎣 Phishing & Social Engineering Awareness
-* 🧪 Security Testing
-* 🔍 Vulnerability Analysis
-* 🖥️ Secure Application Development
+```text
+Cybersecurity
+├── Network Security
+├── Ethical Hacking
+├── Cryptography
+├── Phishing Awareness
+├── Vulnerability Analysis
+├── Secure Application Development
+└── Security Fundamentals
+```
 
 ---
 
 ## 💻 Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,dart,js,html,css" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,dart,js,html,css" />
+
 </p>
 
-* 🐍 **Python**
-* ☕ **Java**
-* 🎯 **Dart**
-* 🟨 **JavaScript**
-* 🌐 **HTML & CSS**
+| Language      | Focus                              |
+| ------------- | ---------------------------------- |
+| 🐍 Python     | Programming, Automation & Security |
+| ☕ Java        | Object-Oriented Programming        |
+| 🎯 Dart       | Flutter Development                |
+| 🟨 JavaScript | Web Development                    |
+| 🌐 HTML       | Web Structure                      |
+| 🎨 CSS        | Web Styling                        |
 
 ---
 
 ## 📱 Frameworks & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,git,github,linux,mysql,vscode" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,git,github,linux,mysql,vscode" />
+
 </p>
 
-* Flutter
-* Git & GitHub
-* Linux
-* SQL / MySQL
-* VS Code
+* 📱 **Flutter**
+* 🎯 **Dart**
+* 🐧 **Linux**
+* 🗄️ **MySQL / SQL**
+* 🔧 **Git**
+* 🐙 **GitHub**
+* 💻 **VS Code**
 
 ---
 
 ## 🌐 Networking
 
-I'm also interested in **Computer Networking and Network Security**, including:
+I'm also interested in **Computer Networking and Network Security**.
 
-* TCP/IP
-* Routing & Switching
-* VLANs
-* VPN
-* DMVPN
-* Network Security
-* Cisco Technologies
+```text
+Networking
+├── TCP/IP
+├── Routing & Switching
+├── VLANs
+├── VPN
+├── DMVPN
+├── Network Security
+└── Cisco Technologies
+```
 
 ---
 
 ## 🚀 Projects
 
-Here are some of the projects I'm working on and learning from:
+### 🔐 Cybersecurity Projects
 
-| Project                   | Description                                          |
-| ------------------------- | ---------------------------------------------------- |
-| 🔐 Cybersecurity Projects | Security-focused projects and experiments            |
-| 📱 Flutter Projects       | Mobile applications built with Flutter & Dart        |
-| 🌐 Networking Labs        | Networking and security labs                         |
-| 🐍 Python Projects        | Automation, scripting, and security-related projects |
+Security-focused projects designed to improve my understanding of cybersecurity concepts and practical security.
 
-> More projects will be added as I continue learning and building.
+### 📱 Flutter Projects
+
+Mobile applications developed using **Flutter & Dart**, including cybersecurity-related applications.
+
+### 🐍 Python Projects
+
+Python projects focused on programming, automation, problem solving, and cybersecurity.
+
+### 🌐 Networking Labs
+
+Practical networking labs covering routing, switching, VPN technologies, and network security.
+
+---
+
+## 🧰 Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,dart,flutter,linux,git,github,mysql,vscode" />
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mishaalfares&theme=radical" alt="GitHub Profile Summary"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishaalfares&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishaalfares&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mishaalfares&show_icons=true&theme=radical&hide_border=true" height="180">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishaalfares&theme=radical&hide_border=true" height="180">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mishaalfares&theme=radical" width="90%">
+
+</div>
 
 ---
 
 ## 📈 Currently Learning
 
 ```text
-Cybersecurity        ███████████████░░░░░
-Python               ████████████████░░░░
-Networking            ██████████████░░░░░░
-Java                 █████████████░░░░░░░
-Flutter              ████████████░░░░░░░░
-Linux                ████████████░░░░░░░░
+🐍 Python              ████████████████░░░░
+☕ Java                ██████████████░░░░░░
+🔐 Cybersecurity       ███████████████░░░░░
+🌐 Networking          ██████████████░░░░░░
+📱 Flutter             ████████████░░░░░░░░
+🐧 Linux               ████████████░░░░░░░░
 ```
 
 ---
 
-## 🎯 My Goals
+## 🎯 Goals
 
-* 🔐 Become a skilled **Cybersecurity Professional**
-* 🧠 Build strong foundations in **Networking & Security**
-* 🐍 Improve my **Python** skills for cybersecurity and automation
-* 💻 Develop secure and useful applications
-* 🚀 Build more practical cybersecurity projects
-* 🌎 Contribute to the tech and cybersecurity community
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/mishaalfares">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+* 🔐 Become a professional **Cybersecurity Specialist**
+* 🌐 Build strong **Networking & Security** skills
+* 🐍 Master **Python for Cybersecurity**
+* 💻 Improve my software development skills
+* 🧪 Build practical security projects
+* 🚀 Contribute to open-source projects
+* 📚 Keep learning and improving every day
 
 ---
 
-<h3 align="center">🔐 Learn. Build. Secure. Repeat. 🚀</h3>
+## 💡 Philosophy
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</p>
+> **Learn. Build. Break. Secure. Repeat.**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/mishaalfares">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛡️ Cybersecurity is not just a skill — it's a mindset.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer">
+
+</div>
