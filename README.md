@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./cybersecurity-banner.png" alt="Mishaal Fares Cybersecurity" width="100%">
+<img src="./cybersecurity-intro.gif" alt="Mishaal Fares Cybersecurity" width="100%">
 
 # 👋 Hi, I'm Mishaal Fares
 
@@ -200,6 +200,6 @@ Practical networking labs covering routing, switching, VPN technologies, and net
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="Footer">
 
 </div>
